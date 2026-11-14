@@ -1,0 +1,18 @@
+# Sensitive Firebase Credentials
+**/serviceAccountKey.json
+serviceAccountKey.json
+
+# Node / React dependencies & build outputs
+**/node_modules/
+node_modules/
+frontend/build/
+
+# Python virtual environments & cache
+**/__pycache__/
+*.pyc
+venv/
+.env
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
